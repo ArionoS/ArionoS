@@ -6,28 +6,28 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/arionos-ba5a5622a/">
-    <img alt="linkedin" src="https://img.shields.io/badge/Linkedin/Rajendra-1K-blue?style=for-the-badge&logo=linkedin" />
+    <img alt="linkedin" src="https://img.shields.io/badge/Linkedin/arionos-1K-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.instagram.com/arionoseptian/">
-    <img alt="instagram" src="https://img.shields.io/badge/Instagram/Rjndrkha-2K-red?style=for-the-badge&logo=instagram" />
+    <img alt="instagram" src="https://img.shields.io/badge/Instagram/arionos-400-red?style=for-the-badge&logo=instagram" />
   </a>
   <a href="https://wa.me/">
-    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp/Rjndrkha-Contact-green?style=for-the-badge&logo=whatsapp" />
+    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp/arionos-Contact-green?style=for-the-badge&logo=whatsapp" />
   </a>
       <a href="mailto:1941720092@student.polinema.ac.id">
-    <img alt="Mail" src="https://img.shields.io/badge/Mail/Rjndrkha-Contact-red?style=for-the-badge&logo=gmail" />
+    <img alt="Mail" src="https://img.shields.io/badge/Mail/arionos-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
     
 </p>
 
 <p align="center">
     
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Rjndrkha&show_icons=true&theme=radical" />
-  <img alt="github statss" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rjndrkha&layout=compact&show_icons=true&theme=radical" />
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=ArionoS&show_icons=true&theme=radical" />
+  <img alt="github statss" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArionoS&layout=compact&show_icons=true&theme=radical" />
 </p>
 
 
-## 💻 Ariono's Working Time [![Waka Readme](https://github.com/Rjndrkha/Rjndrkha/actions/workflows/wakatime.yml/badge.svg)](https://github.com/Rjndrkha/Rjndrkha/actions/workflows/wakatime.yml)
+## 💻 Ariono's Working Time [![Waka Readme](https://github.com/ArionoS/ArionoS/actions/workflows/wakatime.yml/badge.svg)](https://github.com/ArionoS/ArionoS/actions/workflows/wakatime.yml)
 <p align="center">
     
 <!--START_SECTION:waka-->

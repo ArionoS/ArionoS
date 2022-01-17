@@ -32,7 +32,10 @@
     
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 10 January, 2022 - 16 January, 2022
+
+Markdown   33 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀   68.90 % 
+YAML       14 mins         ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.10 % 
 ```
 <!--END_SECTION:waka-->
     

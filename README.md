@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/arionos-ba5a5622a/">
-    <img alt="linkedin" src="https://img.shields.io/badge/Linkedin/Rajendra-1K-blue?style=for-the-badge&logo=linkedin" />
+    <img alt="linkedin" src="https://img.shields.io/badge/Linkedin/arionos-1K-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.instagram.com/arionoseptian/">
     <img alt="instagram" src="https://img.shields.io/badge/Instagram/Rjndrkha-2K-red?style=for-the-badge&logo=instagram" />

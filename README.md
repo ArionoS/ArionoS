@@ -9,13 +9,13 @@
     <img alt="linkedin" src="https://img.shields.io/badge/Linkedin/arionos-1K-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.instagram.com/arionoseptian/">
-    <img alt="instagram" src="https://img.shields.io/badge/Instagram/Rjndrkha-2K-red?style=for-the-badge&logo=instagram" />
+    <img alt="instagram" src="https://img.shields.io/badge/Instagram/arionos-400-red?style=for-the-badge&logo=instagram" />
   </a>
   <a href="https://wa.me/">
-    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp/Rjndrkha-Contact-green?style=for-the-badge&logo=whatsapp" />
+    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp/arionos-Contact-green?style=for-the-badge&logo=whatsapp" />
   </a>
       <a href="mailto:1941720092@student.polinema.ac.id">
-    <img alt="Mail" src="https://img.shields.io/badge/Mail/Rjndrkha-Contact-red?style=for-the-badge&logo=gmail" />
+    <img alt="Mail" src="https://img.shields.io/badge/Mail/arionos-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
     
 </p>

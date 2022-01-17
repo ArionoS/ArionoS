@@ -2,7 +2,7 @@
 <a href="#"><img width="60%" height="auto" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" height="175px"/></a>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ArionoS , Special Ariono Septian</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ArionoS , Special From Ariono Septian</h1>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/arionos-ba5a5622a/">

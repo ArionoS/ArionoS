@@ -45,7 +45,7 @@ YAML       14 mins         ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love music and play guitar
+- ⚡ Fun fact: I love play guitar , football , and game.
 
 ---
 

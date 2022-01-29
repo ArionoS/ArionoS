@@ -32,7 +32,7 @@
     
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2022 - 27 January, 2022
+Week: 22 January, 2022 - 28 January, 2022
 
 HTML   3 hrs 32 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀   82.86 % 
 JSON   15 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.11 % 

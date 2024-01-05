@@ -33,9 +33,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2023 - To: 04 January 2024
+From: 29 December 2023 - To: 05 January 2024
 
-Dart   22 hrs 21 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+Dart   25 hrs 31 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤   97.43 %
+PHP    40 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.57 %
 ```
 
 <!--END_SECTION:waka-->
